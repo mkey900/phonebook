@@ -1,0 +1,14 @@
+C:\Users\MartaK\source\repos\ConsoleApp1\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\MartaK\source\repos\ConsoleApp1\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\MartaK\source\repos\ConsoleApp1\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\MartaK\source\repos\ConsoleApp1\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\MartaK\source\repos\ConsoleApp1\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\MartaK\source\repos\ConsoleApp1\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\MartaK\source\repos\ConsoleApp1\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\MartaK\source\repos\KocajM_PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\MartaK\source\repos\KocajM_PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\MartaK\source\repos\KocajM_PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\MartaK\source\repos\KocajM_PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\MartaK\source\repos\KocajM_PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\MartaK\source\repos\KocajM_PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\MartaK\source\repos\KocajM_PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
